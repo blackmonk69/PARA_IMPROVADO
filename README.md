@@ -39,10 +39,5 @@ The final analysis provides a strategic look at resource allocation and channel 
 * **Interactive Storytelling:** [View the Live Analysis on Gamma](https://gamma.app/docs/Cross-Platform-Marketing-Performance-Analysis-k00fwrlfsd0xkoo)
 * **Offline Access:** A **PDF version** of the full analysis is available in the `reports/` folder of this repository.
 
-## 📂 Repository Structure
-```text
-├── sql/         # Snowflake scripts for table creation and data unification
-├── data/        # Documentation on CSV schemas
-├── reports/     # PDF export of the Power BI Dashboard
-└── README.md    # Project documentation
+
 
