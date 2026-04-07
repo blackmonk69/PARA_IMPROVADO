@@ -4,6 +4,7 @@
 
 ## 📊 Project Overview
 This project demonstrates the development of an end-to-end data pipeline, transforming raw, fragmented marketing data into actionable business intelligence. By leveraging **Snowflake** for cloud data warehousing and **Power BI** for visualization, the project provides a unified view of marketing performance across multiple platforms.
+![Texto alternativo](captura.png)
 
 ## 🛠️ Tech Stack
 * **Data Warehousing:** Snowflake
